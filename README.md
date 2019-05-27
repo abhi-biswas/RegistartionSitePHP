@@ -1,7 +1,12 @@
 # RegistartionSitePHP
-A simple website created using PHP , HTML JavaScript with MySQL database.
+
+<hr>
+
+**A simple website created using PHP , HTML JavaScript with MySQL database.**
 
 The develped website is a simple, which can be used by a company to get its users registered for a given service.
+
+<hr>
 
 The website uses a backend based on PHP to implement the features:
 
@@ -10,4 +15,13 @@ The website uses a backend based on PHP to implement the features:
 3. Using user sessions to identify and remember a given user with IP address.
 4. Separate admin page for selecting and confirming the registratin of a given user.
 
-Database Schema and How to use will be shortly updated ;)
+Database Schema and How to use will be shortly updated .
+
+<hr>
+
+For more Information:
+
+**Abhijeet Biswas**
+
+mpsabhijeet@gmail.com
+
