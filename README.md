@@ -4,7 +4,7 @@
 
 **A simple website created using PHP , HTML JavaScript with MySQL database.**
 
-The develped website is a simple, which can be used by a company to get its users registered for a given service.
+The develped website can be used by a company to get its users registered for a given service.
 
 <hr>
 
